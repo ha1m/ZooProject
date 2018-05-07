@@ -5,9 +5,7 @@ import food.EFoodType;
 import food.IEdible;
 
 /**
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class Omnivore implements IDiet {
 
