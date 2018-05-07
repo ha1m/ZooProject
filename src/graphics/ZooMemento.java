@@ -6,9 +6,7 @@ import food.EFoodType;
 import animals.Animal;
 /**
  * class represent memento pattern
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class ZooMemento {
 	private ArrayList<Animal> animals;
