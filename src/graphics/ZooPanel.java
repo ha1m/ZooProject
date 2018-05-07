@@ -27,9 +27,7 @@ import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 /**
  * class represent the zoo
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class ZooPanel extends JPanel implements ActionListener
 {
