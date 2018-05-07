@@ -5,9 +5,7 @@ import mobility.Point;
 /**
  * A class represents a specific animal. This class represents Giraffe.
  *  extends  the class Animal
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class Giraffe extends Animal {
 
