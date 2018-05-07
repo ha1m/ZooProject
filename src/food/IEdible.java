@@ -1,7 +1,7 @@
 package food;
 
 /**
- * @author baroh
+ * @author Haim Nahmani
  *
  */
 public interface IEdible {
