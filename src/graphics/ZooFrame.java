@@ -6,9 +6,7 @@ import java.awt.event.ActionListener;
 
 /**
  * class gui represent the frame zoo
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class ZooFrame extends JFrame implements ActionListener
 {
