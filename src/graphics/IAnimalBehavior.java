@@ -1,9 +1,7 @@
 package graphics;
 /**
  * 
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public interface IAnimalBehavior {
 	 abstract public String getName();
