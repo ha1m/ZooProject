@@ -8,9 +8,7 @@ import animals.Giraffe;
 import animals.Turtle;
 /**
  * 
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class HerbivoreFactory implements AbstractZooFactory{
 	/**
