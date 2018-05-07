@@ -4,9 +4,7 @@ import java.util.Observable;
 import java.util.Observer;
 /**
  * class represent bserver/listner pattern
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class ZooObserver extends Thread implements Observer {
 
