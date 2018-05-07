@@ -19,9 +19,9 @@ import graphics.ZooPanel;
 import mobility.Point;
 /**
  * A class represents an animal. the class extends the Mobile calss and implements IEdible IDrawable,IAnimalBehavior,ColoredAnimal,Cloneable,Runnable
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani
+ *  
+ * 
  */
 public abstract class Animal extends Observable implements IEdible,IDrawable,IAnimalBehavior,ColoredAnimal,Cloneable,Runnable {
 
