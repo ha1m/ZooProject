@@ -6,9 +6,7 @@ import animals.Animal;
 import animals.Lion;
 /**
  * 
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani
  */
 public class CarnivoreFactory implements AbstractZooFactory{
 /**
