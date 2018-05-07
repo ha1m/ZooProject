@@ -3,9 +3,7 @@ package graphics;
 import animals.Animal;
 /**
  * decorate the animal  by paint
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani
  */
 public class ColoredAnimalDecorator implements ColoredAnimal {
 
