@@ -7,9 +7,7 @@ import javax.swing.*;
 import java.awt.event.*;
 /**
  * class represent adding animal to the zoo
- * @author Haim Nahmani & Kfir Mazliah
- * ID: 203141197 , 305371866 
- * Campus: Beer Sheva
+ * @author Haim Nahmani 
  */
 public class AddAnimalDialog extends JDialog implements ItemListener, ActionListener {
 	private static final long serialVersionUID = 1L;
